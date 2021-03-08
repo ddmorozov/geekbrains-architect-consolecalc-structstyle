@@ -1,0 +1,13 @@
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleCalc.exe
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleCalc.deps.json
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleCalc.runtimeconfig.json
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleCalc.runtimeconfig.dev.json
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleCalc.dll
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\bin\Debug\netcoreapp3.1\ConsoleCalc.pdb
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.csprojAssemblyReference.cache
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.AssemblyInfoInputs.cache
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.AssemblyInfo.cs
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.csproj.CoreCompileInputs.cache
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.dll
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.pdb
+C:\Users\Morozov\Desktop\ConsoleCalc\ConsoleCalc\obj\Debug\netcoreapp3.1\ConsoleCalc.genruntimeconfig.cache
